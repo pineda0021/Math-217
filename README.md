@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+Math+217;Fundamentals+of+Mathematical+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+Math+217;Fundations+of+Data+Science" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Mathematics Professor at Los Angeles City College</h3>
